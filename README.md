@@ -169,7 +169,3 @@ This project follows best practices in software development:
 This project showcases my ability to develop secure and scalable web applications using Go. I am eager to continue learning and contributing as a Go intern, where I can further hone my skills and collaborate with a team of talented developers.
 
 Feel free to explore the code, and I welcome any feedback or contributions!
-
---- 
-
-This README provides a comprehensive overview of your project while also demonstrating your technical skills and commitment to best practices, making it suitable for showcasing your fit for an internship role.
