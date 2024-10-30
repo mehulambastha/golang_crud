@@ -27,8 +27,8 @@ To get started with the Go Blog API, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/go-blog-api.git
-   cd go-blog-api
+   git clone https://github.com/mehulambastha/golang_crud.git
+   cd golang_crud
    ```
 
 2. **Install Dependencies:**
