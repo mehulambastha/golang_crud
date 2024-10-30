@@ -1,3 +1,4 @@
+(the env should never be pushed upstream, however in this project the env did not contain anything significant, therefore it is pushed as it is.)
 # Go Blog API
 
 ## Overview
