@@ -21,7 +21,7 @@ To get started with the Go Blog API, follow these steps:
 ### Prerequisites
 
 - Go (version 1.16 or later)
-- A working PostgreSQL or SQLite database (depending on your setup)
+- SQLite database
 
 ### Steps
 
@@ -45,8 +45,6 @@ To get started with the Go Blog API, follow these steps:
    Create a `.env` file in the root directory and define the following variables:
 
    ```bash
-   DB_TYPE=sqlite3  # or postgres
-   DB_CONNECTION_STRING=your_database_connection_string
    JWT_SECRET=your_jwt_secret
    ```
 
